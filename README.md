@@ -1,5 +1,5 @@
 **Contingência_e_eliminação_de_processos_repetitivos**
-<br >
+<br><br>
 Enfrentei o desafio de eliminar as emissões de notas fiscais de embalagem, um processo repetitivo e volumoso que consumia recursos valiosos dos usuários. Para otimizar a  operação, implementei o uso do software Dataload Classic, uma 
 ferramenta de automação de processos projetada para sistemas ERP e CRM.
 Com expertise na ferramenta, mapeei os campos do sistema e criei diversos templates para cada tipo de nota fiscal. Além disso, ministrei treinamentos para os usuários, capacitando-os a executar as emissões de notas fiscais de forma 

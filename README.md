@@ -2,7 +2,7 @@
 <html>
 <head>
 <body> 
-  <h1>Contingência e eliminação de processos repetitivos</h1>
+  <h1>Eliminação de processos repetitivos</h1>
 <br><br>
   <h1>Objetivo do projeto</h1>
 <div style='text-align:right'> 
@@ -26,18 +26,21 @@ Logo a seguir fiz a demonstração de como a ferramenta Dataload Classic funcion
 
 Passos para iniciar o upload de dados
 <br >
--Configuração da ferramenta
+1-Configuração da ferramenta
 <br >
--Inclusão dos comandos relacionados à cada campo
+2-Inclusão dos comandos relacionados à cada campo
 <br >
--Alimentação dos dados que serão carregados no site
+3-Alimentação dos dados que serão carregados no site
 <br >
--Eliminação de pop-up
+4-Eliminação de pop-up
+<br >
+5-Execução do comando com o objetivo de alimentar um cadastro na web
+
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6
 
 
-
+##
 
   </body>
   </html>

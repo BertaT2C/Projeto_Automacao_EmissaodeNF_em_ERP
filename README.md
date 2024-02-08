@@ -7,7 +7,7 @@
   <h1>Objetivo do projeto</h1>
 <div style='text-align:right'> 
     </div>
-Na indústria automobilística multinacional, conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem, um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.
+Na indústria automobilística multinacional, conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem feitas por vários funcionários da equipe fiscal. Um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.
 <br >
   
 Utilizando minha expertise na ferramenta, mapeei minuciosamente os campos do sistema e criei diversos templates para cada tipo de nota fiscal. Além disso, ministrei treinamentos abrangentes para os usuários, capacitando-os a executar as emissões de notas fiscais de forma eficiente.

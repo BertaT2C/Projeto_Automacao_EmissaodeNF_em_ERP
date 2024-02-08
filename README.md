@@ -19,6 +19,7 @@ Para garantir uma execução contínua e sem interrupções, executei essas tare
 Este plano de contingência, no qual o Dataload desempenha um papel crucial, foi essencial devido ao funcionamento just-in-time do sistema de produção da empresa.
 
 
+
 ##
 
 Logo a seguir fiz a demonstração de como a ferramenta Dataload Classic funciona

@@ -27,15 +27,21 @@ Logo a seguir fiz a demonstração de como a ferramenta Dataload Classic funcion
 
 Passos para iniciar o upload de dados
 <br >
-1-Configuração da ferramenta
+### 1)Configuração da Ferramenta:
+Primeiramente, é necessário configurar a ferramenta que será utilizada para o upload de dados. Isso inclui ajustar as configurações de acordo com as necessidades específicas do processo.
 <br >
-2-Inclusão dos comandos relacionados à cada campo
+### 2)Inclusão dos Comandos Relacionados a Cada Campo:
+Em seguida, é preciso incluir os comandos relacionados a cada campo dos dados que serão carregados. Isso envolve definir as instruções específicas para cada campo, como formatos de entrada e validações.
 <br >
-3-Alimentação dos dados que serão carregados no site
+### 3)Alimentação dos Dados a Serem Carregados no Site:
+Após a configuração da ferramenta e dos comandos, o próximo passo é alimentar os dados que serão carregados no site. Isso pode incluir inserir informações em formulários ou planilhas específicas.
 <br >
-4-Eliminação de pop-up
+### 4) Eliminação de Pop-up:
+Durante o processo de upload, é importante lidar com possíveis pop-ups que possam surgir, como alertas de confirmação ou mensagens de erro. Esses pop-ups podem ser eliminados para garantir uma execução suave do processo.
 <br >
-5-Execução do comando com o objetivo de alimentar um cadastro na web
+### 5)Execução do Comando para Alimentar um Cadastro na Web:
+Por fim, o comando para alimentar o cadastro na web é executado. Isso envolve enviar os dados coletados nos passos anteriores para o site, preenchendo os campos necessários e concluindo o processo de upload.
+<br >
 
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6

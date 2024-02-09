@@ -18,7 +18,7 @@ Para garantir uma execução contínua e sem interrupções, executei essas tare
 
 Este plano de contingência, no qual o Dataload desempenha um papel crucial, foi essencial devido ao funcionamento just-in-time do sistema de produção da empresa.
 
-
+![image](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/548194dc-e88b-493a-8fb6-88b4194b0685)
 
 ##
 
@@ -46,7 +46,7 @@ Por fim, o comando para alimentar o cadastro na web é executado. Isso envolve e
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6
 
-![image](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/548194dc-e88b-493a-8fb6-88b4194b0685)
+
 
 
 

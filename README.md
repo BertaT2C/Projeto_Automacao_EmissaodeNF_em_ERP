@@ -3,7 +3,7 @@
 <head>
 <body> 
     <h1>Eliminação de um dos processos repetitivos no sistema ERP Oracle R12</h1>
-<br><br>
+<br>
      <h1>Objetivo do projeto</h1>
 <div style='text-align:right'> 
     </div>

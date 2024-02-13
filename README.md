@@ -2,9 +2,9 @@
 <html>
 <head>
 <body> 
-##  <h1>Eliminação de um dos processos repetitivos no sistema ERP Oracle R12</h1>
+### Eliminação de um dos processos repetitivos no sistema ERP Oracle R12
 <br><br>
-##  <h1>Objetivo do projeto</h1>
+### Objetivo do projeto
 <div style='text-align:right'> 
     </div>
 Na indústria automobilística multinacional, conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem feitas por vários funcionários da equipe fiscal. Um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.

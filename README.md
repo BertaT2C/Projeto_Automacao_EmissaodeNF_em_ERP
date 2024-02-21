@@ -18,6 +18,14 @@ Para garantir uma execução contínua e sem interrupções, executei essas tare
 
 Este plano de contingência, no qual o Dataload desempenha um papel crucial, foi essencial devido ao funcionamento just-in-time do sistema de produção da empresa.
 
+<h1>KPIs</h1>
+
+![image](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/8c73d12e-8b61-429f-b996-9f5bebc79149)
+
+Esses KPIs são fundamentais para avaliar o impacto do projeto e garantir que os objetivos estratégicos de eliminação de emissões de notas fiscais sejam alcançados de maneira eficaz e sustentável. Eles fornecem insights valiosos para ajustar e melhorar continuamente o processo de automação e garantir uma execução contínua e sem interrupções, especialmente em um ambiente de produção just-in-time.
+O contexto desse projeto na indústria automobilística multinacional, os KPIs (Key Performance Indicators), ou Indicadores-Chave de Desempenho, são essenciais para medir o sucesso e a eficácia das iniciativas implementadas
+
+
 ![image](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/548194dc-e88b-493a-8fb6-88b4194b0685)
 
 ##

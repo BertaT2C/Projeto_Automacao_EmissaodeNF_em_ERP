@@ -8,7 +8,10 @@
 <div style='text-align:right'> 
     </div>
 Na indústria automobilística multinacional, conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem feitas por vários funcionários da equipe fiscal. Um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.
-<br >
+<br ><br>
+
+![TypingJimCarreyGIF](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP/assets/99225701/46a0d1de-c551-4587-9ea4-3c0d3da7d908)
+
   
 Utilizando minha expertise na ferramenta, mapeei minuciosamente os campos do sistema e criei diversos templates para cada tipo de nota fiscal. Além disso, ministrei treinamentos abrangentes para os usuários, capacitando-os a executar as emissões de notas fiscais de forma eficiente.
 <br >
@@ -45,6 +48,9 @@ Em resumo, a introdução da automação no processo de emissão de notas fiscai
 Observamos uma tendência positiva de diminuição nos índices, a expectativa é que, à medida que a automação se consolide e os usuários se familiarizem totalmente com o novo sistema, esses índices continuem a diminuir, resultando em processos ainda mais eficientes e confiáveis.
 
 Portanto, podemos antecipar uma trajetória contínua de melhoria nos próximos meses, à medida que a automação se estabiliza e os ajustes necessários são implementados.
+
+![TypingTheMitchellsVsTheMachinesGIF](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP/assets/99225701/4e1cbda6-705e-442f-ac2b-7daf633e8894)
+
 ##
 
  <h1>A seguir fiz a demonstração de como a ferramenta Dataload Classic funciona</h1>
@@ -70,6 +76,9 @@ Por fim, o comando para alimentar o cadastro na web é executado. Isso envolve e
 
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6
+
+
+
 
 
 

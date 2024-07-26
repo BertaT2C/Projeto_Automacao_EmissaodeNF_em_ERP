@@ -7,7 +7,7 @@
      <h1>Objetivo do projeto</h1>
 <div style='text-align:right'> 
     </div>
-Na indústria automobilística multinacional, conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem feitas por vários funcionários da equipe fiscal. Um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.
+Conduzi um projeto estratégico com o objetivo de eliminar as emissões de notas fiscais de embalagem feitas por vários funcionários da equipe fiscal. Um processo oneroso e repetitivo que consumia recursos valiosos dos usuários. Para otimizar essa operação, implementei o software Dataload Classic, uma ferramenta de automação de processos especialmente projetada para sistemas ERP e CRM.
 <br ><br>
 
 ![TypingJimCarreyGIF](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP/assets/99225701/46a0d1de-c551-4587-9ea4-3c0d3da7d908)

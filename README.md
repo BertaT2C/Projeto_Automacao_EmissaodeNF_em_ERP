@@ -4,7 +4,7 @@
 
 Projeto aplicado a uma operação da indústria automobilística com produção **just-in-time**, envolvendo a emissão de notas fiscais de embalagem e a redução de atividades repetitivas no ERP Oracle R12.
 
-> **Preservação do projeto:** os templates originais, as informações, os gráficos, os indicadores e a demonstração em vídeo foram mantidos. A descrição original, na íntegra e sem alteração de conteúdo, está arquivada em [DOCUMENTACAO_ORIGINAL.md](./DOCUMENTACAO_ORIGINAL.md).
+> **Projeto:** [DOCUMENTACAO_ORIGINAL.md](./DOCUMENTACAO_ORIGINAL.md).
 
 ## 1. Visão executiva
 
@@ -13,6 +13,8 @@ Projeto aplicado a uma operação da indústria automobilística com produção 
 A emissão de notas fiscais de embalagem era realizada manualmente por diferentes colaboradores da equipe fiscal. A rotina envolvia trabalho repetitivo, consumia tempo da operação e exigia mecanismos de contingência para manter o atendimento em um ambiente produtivo just-in-time.
 
 **Objetivo do projeto:** reduzir a execução manual dessa atividade por meio de automação com **Dataload Classic**, padronizando o carregamento das informações no Oracle ERP R12 e ampliando a capacidade de continuidade da operação.
+
+O **DataLoad Classic** é uma ferramenta de automação de entrada de dados baseada em macros para o sistema operacional Windows. Ele funciona como um "robô digitador". Em vez de um usuário passar horas copiando e colando dados de uma planilha para um sistema, o DataLoad simula as ações humanas — como digitar textos, pressionar Tab, Enter e clicar em botões — para alimentar os formulários do software de forma automática e acelerada.
 
 ### Solução adotada
 

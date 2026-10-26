@@ -57,7 +57,7 @@ A listagem preserva os **nomes e arquivos originais**; ela não redefine a respo
 
 ## 4. Indicadores do projeto
 
-Os dados a seguir reproduzem os resultados **já apresentados na documentação original**. A introdução da automação é situada **no final de maio**, e a descrição compara valores de janeiro e junho.
+Os dados a seguir reproduzem os resultados. A introdução da automação é situada **no final de maio**, e a descrição compara valores de janeiro e junho.
 
 | Indicador | Janeiro | Junho |
 | --- | ---: | ---: |
@@ -67,7 +67,7 @@ Os dados a seguir reproduzem os resultados **já apresentados na documentação 
 | Rejeição de notas | **17%** | **3%** |
 | Cancelamento de notas | **66%** | **18%** |
 
-**Tempo de emissão — conforme o relato original:** aproximadamente **25 minutos em janeiro**, com referência à emissão de 10 notas, e **1 minuto por nota em junho**, considerando variações de acordo com a quantidade de itens. As unidades e condições desse indicador foram mantidas conforme a fonte, sem recalcular uma redução percentual.
+**Tempo de emissão — conforme o relato original:** aproximadamente **25 minutos em janeiro**, com referência à emissão de 10 notas, e **1 minuto por nota em junho**, considerando variações de acordo com a quantidade de itens.
 
 ### Gráficos e evidências publicados originalmente
 
@@ -76,8 +76,6 @@ Os dados a seguir reproduzem os resultados **já apresentados na documentação 
 ![Indicadores originais — gráfico 1](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/548194dc-e88b-493a-8fb6-88b4194b0685)
 
 ![Indicadores originais — gráfico 2](https://github.com/BertaT2C/Projeto_Contingencia_Emissao_em_ERP/assets/99225701/b0f811d2-a241-47ac-8c93-5f600346d8a3)
-
-> **Importante:** as imagens, porcentagens e valores acima são os mesmos fornecidos no case. Nenhum novo KPI, ganho financeiro ou percentual foi criado nesta atualização.
 
 ## 5. Benefícios operacionais descritos
 
@@ -89,7 +87,7 @@ A combinação de **templates, capacitação e rotinas de backup** foi especialm
 
 ## 6. Demonstração do Dataload Classic
 
-A demonstração já publicada no projeto foi preservada, incluindo sua sequência original de atividades:
+A demonstração do projeto incluindo sua sequência de atividades:
 
 1. **Configuração da ferramenta:** ajustar as configurações às necessidades específicas do processo.
 2. **Inclusão dos comandos relacionados a cada campo:** definir instruções, formatos de entrada e validações.
@@ -97,11 +95,8 @@ A demonstração já publicada no projeto foi preservada, incluindo sua sequênc
 4. **Eliminação de pop-up:** lidar com alertas de confirmação ou mensagens de erro durante a execução.
 5. **Execução do comando para alimentar um cadastro na web:** executar o preenchimento dos campos com os dados preparados.
 
-Essa etapa corresponde à **demonstração da ferramenta** descrita no material original, sem substituir o projeto de emissão fiscal no Oracle ERP.
 
 ### ▶️ Vídeo original da demonstração
-
-O endereço do vídeo foi mantido **exatamente como estava no README anterior**:
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6
 

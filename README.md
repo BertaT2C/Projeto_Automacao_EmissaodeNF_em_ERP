@@ -14,7 +14,7 @@ A emissão de notas fiscais de embalagem era realizada manualmente por diferente
 
 **Objetivo do projeto:** reduzir a execução manual dessa atividade por meio de automação com **Dataload Classic**, padronizando o carregamento das informações no Oracle ERP R12 e ampliando a capacidade de continuidade da operação.
 
-O **DataLoad Classic** é uma ferramenta de automação de entrada de dados baseada em macros para o sistema operacional Windows. Ele funciona como um "robô digitador". Em vez de um usuário passar horas copiando e colando dados de uma planilha para um sistema, o DataLoad simula as ações humanas — como digitar textos, pressionar Tab, Enter e clicar em botões — para alimentar os formulários do software de forma automática e acelerada.
+O **DataLoad Classic** é uma ferramenta de automação de entrada de dados baseada em macros para o sistema operacional Windows. Ele funciona como um "robô digitador". Em vez de um usuário passar horas copiando e colando dados de uma planilha para um sistema, o DataLoad simula as ações humanas, como digitar textos, pressionar Tab, Enter e clicar em botões para alimentar os formulários do software de forma automática e acelerada.
 
 ### Solução adotada
 

@@ -100,7 +100,6 @@ A demonstração do projeto incluindo sua sequência de atividades:
 
 https://github.com/BertaT2C/Projeto_Contingencia_em_ERP/assets/99225701/980a4326-5316-4e1a-a383-c61110fe18b6
 
-![Animação original de encerramento](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP/assets/99225701/4e1cbda6-705e-442f-ac2b-7daf633e8894)
 
 ---
 

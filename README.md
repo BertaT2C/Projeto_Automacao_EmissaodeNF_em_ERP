@@ -1,5 +1,25 @@
 # Automação de emissão de notas fiscais no Oracle ERP R12
 
+## Da rotina manual à emissão automatizada — passo a passo do estudo de caso
+
+Esta síntese organiza o material existente em uma narrativa de negócio: do problema identificado aos artefatos, entregas e à forma de avaliar valor.
+
+| Etapa | Processo, decisão e evidência |
+| --- | --- |
+| **Desafio** | Emissão repetitiva de notas de embalagem no Oracle R12 em operação just-in-time. |
+| **Discovery** | Levantamento de campos, tipos de nota, sequência de preenchimento e necessidades de contingência. |
+| **AS IS** | Entrada manual e repetitiva de informações no ERP por colaboradores da área fiscal. |
+| **TO BE** | Templates DataLoad Classic para automatizar a navegação e o preenchimento. |
+| **Implantação** | Máquinas dedicadas, treinamento, documentação e profissionais de apoio. |
+| **Evidências** | Templates .dld, indicadores originais, imagens e vídeo de demonstração. |
+| **Indicadores** | Comparação de janeiro e junho reproduzida da fonte original, sem atribuição causal auditada. |
+
+**Documentação e materiais:** [Template de emissão](./Emissao_NF_Embalagem%20v1.dld) · [DATALOAD AR BILLING](./DATALOAD%20AR%20BILLING.dld) · [Página do case](https://bertat2c.github.io/oracle-r12.html).
+
+**Interpretação do case:** Os percentuais são relatados no material original e não foram verificados por auditoria independente.
+
+---
+
 **Case de melhoria de processos, automação no-code e continuidade operacional com Dataload Classic**
 
 Projeto aplicado a uma operação da indústria automobilística com produção **just-in-time**, envolvendo a emissão de notas fiscais de embalagem e a redução de atividades repetitivas no ERP Oracle R12.

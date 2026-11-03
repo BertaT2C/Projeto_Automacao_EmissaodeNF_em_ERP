@@ -83,7 +83,6 @@ Os resultados apresentados indicam ganhos na eficiência da emissão, redução 
 
 A combinação de **templates, capacitação e rotinas de backup** foi especialmente relevante em uma operação industrial que exige continuidade e agilidade.
 
-![Animação original de apoio ao case](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP/assets/99225701/46a0d1de-c551-4587-9ea4-3c0d3da7d908)
 
 ## 6. Demonstração do Dataload Classic
 
